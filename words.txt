@@ -1,6 +1,7 @@
-ravenclaw
-gryffindor
-ravenclaw
-slytherin
-gryffindor
-hufflepuff
+manzana
+pera
+uva
+manzana
+banana
+kiwi
+pera
