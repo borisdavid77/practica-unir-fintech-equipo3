@@ -1,1 +1,8 @@
+manzana
+pera
+uva
+manzana
+banana
+kiwi
+pera
 sandia
