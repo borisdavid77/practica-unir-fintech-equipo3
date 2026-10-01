@@ -12,6 +12,7 @@ Integrantes:
 - Jonathan Jordi
 - Daniel Naupari
 - Victor Maldonado
+- Boris Zambrano
 
 ##### Objectivo:
 
