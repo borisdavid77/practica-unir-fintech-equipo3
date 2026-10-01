@@ -1,0 +1,6 @@
+ravenclaw
+gryffindor
+ravenclaw
+slytherin
+gryffindor
+hufflepuff
